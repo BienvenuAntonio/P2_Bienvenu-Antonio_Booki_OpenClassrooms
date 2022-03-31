@@ -2,13 +2,9 @@
 
 :root {
   --blue: #0065fc;
-}
 
-:root {
   --light-blue: #deebff;
-}
 
-:root {
   --grey: #f2f2f2;
 }
 
@@ -62,7 +58,7 @@ nav a:hover {
   margin-right: auto;
 }
 
-/* boddy booki */
+/* body booki */
 
 .wrapper {
   padding: 0 40px;
@@ -346,8 +342,7 @@ nav a:hover {
   flex-wrap: wrap;
   width: 100%;
   background-color: var(--grey);
-  margin-top: 30px;
-  padding: 15px;
+  padding: 40px;
   margin: 0 auto;
 }
 
@@ -399,7 +394,7 @@ nav a:hover {
 
 .list-activities {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   flex-basis: 100%;
 }
 
